@@ -1,0 +1,56 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Portal de Jogos Oficiais</title>
+  <meta name="description" content="Site com links oficiais de jogos como Forza Horizon 5, GTA V e muitos outros.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; background:#0f172a; color:#e5e7eb; margin:0; }
+    header { background:#020617; padding:20px; text-align:center; }
+    h1 { margin:0; color:#38bdf8; }
+    main { padding:20px; max-width:900px; margin:auto; }
+    .game { background:#020617; border-radius:12px; padding:16px; margin-bottom:16px; box-shadow:0 0 10px rgba(0,0,0,.4); }
+    .game h2 { margin-top:0; color:#facc15; }
+    a { color:#38bdf8; text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    footer { text-align:center; padding:20px; font-size:14px; color:#94a3b8; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Portal de Jogos Oficiais</h1>
+    <p>Links diretos e seguros para sites oficiais de jogos</p>
+  </header>  <main>
+    <div class="game">
+      <h2>Forza Horizon 5</h2>
+      <p>Corrida em mundo aberto no México.</p>
+      <a href="https://forzamotorsport.net" target="_blank">Site oficial</a>
+    </div><div class="game">
+  <h2>GTA V</h2>
+  <p>Ação em mundo aberto da Rockstar Games.</p>
+  <a href="https://www.rockstargames.com/gta-v" target="_blank">Site oficial</a>
+</div>
+
+<div class="game">
+  <h2>Farming Simulator 25</h2>
+  <p>Simulador agrícola realista.</p>
+  <a href="https://www.farming-simulator.com" target="_blank">Site oficial</a>
+</div>
+
+<div class="game">
+  <h2>Call of Duty</h2>
+  <p>FPS clássico da Activision.</p>
+  <a href="https://www.callofduty.com" target="_blank">Site oficial</a>
+</div>
+
+<div class="game">
+  <h2>EA Sports FC</h2>
+  <p>Futebol oficial da EA.</p>
+  <a href="https://www.ea.com/games/ea-sports-fc" target="_blank">Site oficial</a>
+</div>
+
+  </main>  <footer>
+    <p>Portal independente. Todos os jogos pertencem aos seus respectivos donos.</p>
+  </footer>
+</body>
+</html>
